@@ -3,7 +3,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/VirusNoirrr/Capmonster-Checker">
-    <img src="https://cdn.discordapp.com/attachments/837646073206931476/1149070560853250088/logo_landing.png" alt="Logo" width="800" height="115">
+    <img src="https://i.ibb.co/nr4HRCF/image.png" alt="Logo" width="800" height="115">
   </a>
   </kbd>
   
@@ -12,9 +12,9 @@
     Simple script to generate & check capmonster keys.
     <br />
     <br />
-    <a href="https://discord.gg/sSSr9grEQP">🌌 Discord</a>
+    <a href="https://discord.gg/FwcxMF2ZC3">🌌 Discord</a>
     -
-    <a href="https://discord.com/users/588368008360099861">✉️ Contact</a>
+    <a href="https://discord.com/users/1087555822399262812">✉️ Contact</a>
 
   </p>
 </div>
