@@ -3,7 +3,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/VirusNoirrr/Capmonster-Checker">
-    <img src="https://i.ibb.co/nr4HRCF/image.png" alt="Logo" width="800" height="115">
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/vc3T3S3/image.png" alt="image" border="0"></a>
   </a>
   </kbd>
   
